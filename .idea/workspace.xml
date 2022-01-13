@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2170ed6f-e35a-4b20-b1c9-6d8751af6656" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iG6EDv8MZbEMGXAWxTsmPtUrzy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2170ed6f-e35a-4b20-b1c9-6d8751af6656" name="Default Changelist" comment="" />
+      <created>1601521471097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601521471097</updated>
+      <workItem from="1601521512784" duration="3756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="17" key="#Deployment" timestamp="1601521655668">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="232" y="17" key="#Deployment/0.0.1280.720@0.0.1280.720" timestamp="1601521655668" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1601521844993">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1601521844993" />
+    <state x="539" y="89" width="368" height="541" key="ftp.server.browser" timestamp="1601521803066">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="539" y="89" width="368" height="541" key="ftp.server.browser/0.0.1280.720@0.0.1280.720" timestamp="1601521803066" />
+  </component>
+</project>
