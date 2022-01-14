@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="172.19.5.91">
+    <serverData>
+      <paths name="172.19.5.91">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jsjxy_cln_wq/tcsm/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="192.168.1.105">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wq/tcsm/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jsjxy_cln_wq@172.19.5.91:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jsjxy_cln_wq/tcsm" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jsjxy_cln_wq@172.19.5.91:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jsjxy_cln_wq/tcsm" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wq@192.168.1.105:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wq/tcsm" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

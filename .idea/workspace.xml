@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d931fc8f-ab86-40c2-b8d6-c38cfd49d9ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="8ac8ee19-ed41-42ac-b8c0-ec40ca37a7c6" />
+  <component name="ProjectId" id="1a0WxC6FuOdtP7IzncUbIxwiwPi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pneumonia-papers\medical-image-process\covid19-data\TCSM-master" />
+      <recent name="E:\pneumonia-papers\medical-image-process\covid19-data\TCSM-master\other_ways" />
+      <recent name="E:\pneumonia-papers\medical-image-process\covid19-data\TCSM-master\predict" />
+      <recent name="E:\pneumonia-papers\medical-image-process\covid19-data\TCSM-master\utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pneumonia-papers\medical-image-process\covid19-data\TCSM-master" />
+      <recent name="E:\pneumonia-papers\medical-image-process\covid19-data\TCSM-master\dataset" />
+      <recent name="E:\pneumonia-papers\medical-image-process\covid19-data\TCSM-master\utils" />
+      <recent name="E:\pneumonia-papers\medical-image-process\covid19-data\TCSM-master\data_id" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train_tcsm_mean">
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCSM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show_optim_results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCSM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/show_optim_results.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_tcsm_mean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCSM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_tcsm_mean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_vat_mean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCSM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_vat_mean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_vat_optim_mean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCSM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_vat_optim_mean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_tcsm_mean" />
+        <item itemvalue="Python.show_optim_results" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.train_vat_mean" />
+        <item itemvalue="Python.train_vat_optim_mean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d931fc8f-ab86-40c2-b8d6-c38cfd49d9ff" name="Default Changelist" comment="" />
+      <created>1585873235800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585873235800</updated>
+      <workItem from="1585873296223" duration="15961000" />
+      <workItem from="1602832734831" duration="14327000" />
+      <workItem from="1602901333166" duration="22434000" />
+      <workItem from="1602940527296" duration="22442000" />
+      <workItem from="1603027268322" duration="22923000" />
+      <workItem from="1603157658088" duration="24087000" />
+      <workItem from="1603242750660" duration="451352000" />
+      <workItem from="1606283316010" duration="316883000" />
+      <workItem from="1608519112545" duration="53403000" />
+      <workItem from="1609076626004" duration="124447000" />
+      <workItem from="1610247430087" duration="42145000" />
+      <workItem from="1610767565101" duration="81235000" />
+      <workItem from="1611549724684" duration="3890000" />
+      <workItem from="1611641972323" duration="479000" />
+      <workItem from="1611646604293" duration="3585000" />
+      <workItem from="1612748380536" duration="62574000" />
+      <workItem from="1614488092685" duration="38177000" />
+      <workItem from="1614845989134" duration="23421000" />
+      <workItem from="1615093179073" duration="19211000" />
+      <workItem from="1615266859295" duration="17411000" />
+      <workItem from="1615516767327" duration="62691000" />
+      <workItem from="1616237516877" duration="14833000" />
+      <workItem from="1616301614169" duration="204756000" />
+      <workItem from="1617606057854" duration="105237000" />
+      <workItem from="1618803075579" duration="37574000" />
+      <workItem from="1619318701731" duration="17697000" />
+      <workItem from="1619402275640" duration="30117000" />
+      <workItem from="1619616472037" duration="13440000" />
+      <workItem from="1619710877497" duration="6634000" />
+      <workItem from="1619966953580" duration="17351000" />
+      <workItem from="1620439907445" duration="56838000" />
+      <workItem from="1621911612523" duration="2576000" />
+      <workItem from="1623552845685" duration="1355000" />
+      <workItem from="1623580691395" duration="13462000" />
+      <workItem from="1624282884580" duration="19734000" />
+      <workItem from="1624448365318" duration="74622000" />
+      <workItem from="1625631393669" duration="7111000" />
+      <workItem from="1625817020146" duration="6801000" />
+      <workItem from="1626077507518" duration="222000" />
+      <workItem from="1626077784470" duration="10937000" />
+      <workItem from="1627010424333" duration="11795000" />
+      <workItem from="1627123023055" duration="33204000" />
+      <workItem from="1633582374312" duration="55191000" />
+      <workItem from="1633835227710" duration="70460000" />
+      <workItem from="1639377236830" duration="943000" />
+      <workItem from="1639378298380" duration="183537000" />
+      <workItem from="1641361023004" duration="5830000" />
+      <workItem from="1641471103742" duration="10784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="41" key="#Deployment" timestamp="1640509589931">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="41" key="#Deployment/0.0.1366.768@0.0.1366.768" timestamp="1640509589931" />
+    <state width="1322" height="269" key="GridCell.Tab.0.bottom" timestamp="1633830987330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1633830987330" />
+    <state width="1322" height="269" key="GridCell.Tab.0.center" timestamp="1633830987329">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1633830987329" />
+    <state width="1322" height="269" key="GridCell.Tab.0.left" timestamp="1633830987329">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1633830987329" />
+    <state width="1322" height="269" key="GridCell.Tab.0.right" timestamp="1633830987329">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1633830987329" />
+    <state width="1322" height="269" key="GridCell.Tab.1.bottom" timestamp="1633830987330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1633830987330" />
+    <state width="1322" height="269" key="GridCell.Tab.1.center" timestamp="1633830987330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1633830987330" />
+    <state width="1322" height="269" key="GridCell.Tab.1.left" timestamp="1633830987330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1633830987330" />
+    <state width="1322" height="269" key="GridCell.Tab.1.right" timestamp="1633830987330">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1633830987330" />
+    <state x="184" y="15" key="SettingsEditor" timestamp="1640509690306">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="15" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1640509690306" />
+    <state x="363" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1641471100074">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1641471100074" />
+    <state x="584" y="113" width="271" height="541" key="ftp.server.browser" timestamp="1640509681595">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="584" y="113" width="271" height="541" key="ftp.server.browser/0.0.1366.768@0.0.1366.768" timestamp="1640509681595" />
+    <state x="550" y="288" key="publish.login" timestamp="1641471683143">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="550" y="288" key="publish.login/0.0.1366.768@0.0.1366.768" timestamp="1641471683143" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1639638426613">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1639638426613" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TCSM_master$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1603012460266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-209388655/1153252030/torch/autograd" />
+    <SUITE FILE_PATH="coverage/TCSM_master$train_vat_mean.coverage" NAME="train_vat_mean Coverage Results" MODIFIED="1619522579326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TCSM_master$resize_img.coverage" NAME="resize_img Coverage Results" MODIFIED="1609937643156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/TCSM_master$img24_to_8.coverage" NAME="img24_to_8 Coverage Results" MODIFIED="1609937694696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/TCSM_master$predict.coverage" NAME="predict Coverage Results" MODIFIED="1624760974991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TCSM_master$train_tcsm_mean.coverage" NAME="train_tcsm_mean Coverage Results" MODIFIED="1633830853443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TCSM_master$show_optim_results.coverage" NAME="show_optim_results Coverage Results" MODIFIED="1626750229955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/TCSM_master$network.coverage" NAME="network Coverage Results" MODIFIED="1603020057149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/TCSM_master$draw_contour.coverage" NAME="draw_contour Coverage Results" MODIFIED="1609938538311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/TCSM_master$train_vat_optim_mean.coverage" NAME="train_vat_optim_mean Coverage Results" MODIFIED="1616244235585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
